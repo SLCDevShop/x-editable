@@ -21,6 +21,7 @@
       "url": "https://github.com/vitalets/x-editable/blob/master/LICENSE-MIT"
     }
   ],
+  "main": "./dist/bootstrap3-editable/js/bootstrap-editable.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
