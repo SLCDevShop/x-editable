@@ -3838,7 +3838,7 @@ $(function(){
        },
        
        input2value: function() { 
-           return this.$input.val();
+           return this.$input.select2('val');
        },
 
        str2value: function(str, separator) {
